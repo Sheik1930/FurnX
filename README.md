@@ -1,5 +1,5 @@
+
 # FurnX
-# Furn-X-Ar
 
 <img alt="Furn-X-Ar Logo" src="https://live.staticflickr.com/65535/52725281108_725384dcac_b.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 50%; border-radius: 4%;">
 
